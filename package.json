@@ -1,0 +1,22 @@
+{
+  "name": "s.cmp",
+  "version": "1.0.0",
+  "description": "S.cmp - Compare",
+  "main": "s.cmp.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macton/S.cmp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macton/S.cmp/issues"
+  },
+  "homepage": "https://github.com/macton/S.cmp#readme",
+  "dependencies": {
+    "s": "macton/S"
+  }
+}
